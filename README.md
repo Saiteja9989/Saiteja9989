@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Saiteja!
 
-<!--
-**Saiteja9989/Saiteja9989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech 3rd Year | 💻 Aspiring Full Stack Developer  
+🚀 Passionate about Web Development, Java, and AI Projects  
 
-Here are some ideas to get you started:
+## 💼 Projects
+- 🏦 **Online Banking System** – Built using React, Node.js & MySQL  
+- 🧠 **AI Food Analyzer** – Detects food and gives nutritional info  
+- ⚙️ **n8n Automation** – Fetches daily job posts automatically  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Languages:** Java, JavaScript, C++, SQL  
+**Frontend:** HTML, CSS, React  
+**Backend:** Node.js, Express  
+**Database:** MySQL, MongoDB  
+**Tools:** Git, VS Code, Postman  
+
+## 🌱 Currently Learning
+- Advanced DSA in Java  
+- MERN Stack Projects  
+
+## 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/YOUR-LINK) | [Portfolio](https://YOUR-PORTFOLIO.com) | [Email](mailto:YOUR-EMAIL@gmail.com)
+
+⭐ Check out my pinned projects below!
