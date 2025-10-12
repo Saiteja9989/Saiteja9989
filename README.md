@@ -6,8 +6,7 @@
   <h1 style="font-weight:700; color:#6C63FF; margin-bottom:10px;">👋 Hey, I'm Kasoju Sai Teja</h1>
 
   <p style="font-family: 'Inter', sans-serif; font-size:16px; color:#444; max-width:700px; margin:0 auto 20px;">
-    💻 Passionate <b>Full Stack Developer</b> skilled in <b>React, Node.js, and Spring Boot</b>.<br>
-    🚀 Currently exploring <b>automation tools</b> and <b>AI integrations</b> to make development smarter and faster.<br>
+    💻 <b>Full Stack Developer</b>, currently learning <b>Spring Boot</b> and exploring <b>automation tools</b>.<br>
     ✨ I believe in writing <b>clean, efficient, and meaningful code</b> that solves real-world problems.
   </p>
 
@@ -20,6 +19,8 @@
   </p>
 
 </div>
+
+
 
 ## 🌐 Socials:
 
