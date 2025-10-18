@@ -1,7 +1,7 @@
 ![Banner](assets/banner2.gif)
 
 <a target="_blank" align="center">
-  <img align="right" top="600" height="500" width="500" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="600" height="300" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 <div style="text-align:center; font-family: 'Poppins', sans-serif; color:#444;">
 
